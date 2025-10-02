@@ -52,12 +52,9 @@ This project helped me understand:
 - Structuring Python projects  
 - Handling user input and generating responses
 
-### 🙋‍♂️ About Me
-
-I'm Amit Kumar Verma, a passionate full-stack developer currently pursuing MCA. I love building intuitive interfaces and helping others grow through tech.
 
 ### 📬 Contact
 
-- 📧 [av214812@gmail.com]  
+- [av214812@gmail.com]  
 
 
